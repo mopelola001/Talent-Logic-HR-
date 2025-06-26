@@ -1,0 +1,139 @@
+Project Objectives
+The primary objective of this analysis is to assess key HR performance metrics for the year 2023. It aims to identify the underlying factors driving employee attrition and to analyse how satisfaction levels influence employee turnover. Additionally, the analysis seeks to gain a comprehensive understanding of demographic and departmental trends that shape employee behaviour. By evaluating employee demographics, compensation structures, satisfaction scores, and departmental distributions, the study aims to identify patterns that influence engagement, income disparity, and overall departmental productivity. Ultimately, the goal is to develop actionable insights that support improved employee retention and foster a more satisfying and productive workplace environment.
+
+"C:\Users\mopel\OneDrive\MULTIMEDIA\Screenshots\TASK 33A HR ANALYTICS (2).png"
+
+
+Key Metrics (Measures to Analyse)
+These are quantitative values used to evaluate HR performance:
+Total number of employees, Distribution by department, gender, education, etc.
+Minimum Hourly Rate, Maximum Hourly Rate, Average Hourly Rate by gender, department, and education field
+Total Monthly Income, Average Monthly Income by demographic and departmental factors
+Sum of Job Levels by demographic attributes (e.g., marital status)
+Job Satisfaction, Environment Satisfaction, and Job Involvement
+Travel Frequency Impact, Sum of Monthly Income by Business Travel Frequency
+
+Key Dimensions (Attributes for Analysis)
+These are qualitative categories that define how metrics will be segmented and analysed:
+Department: Research & Development, Sales, Human Resources, 
+Gender: Male, Female
+Age Group: 18-25, 26-35, 36-45, 46-55, 55+
+Marital Status: Single, Married, Divorced
+Education Field: Life Sciences, Medical, Marketing, Technical Degree, Human Resources, Other
+Business Travel Frequency: Travel Rarely, Travel Frequently, Non-Travel
+
+Key Expectations
+•	Understand employee distribution across demographics and departments.
+•	Explore patterns in income, job satisfaction, and work engagement.
+•	Provide data-driven recommendations to improve HR strategies and policies.
+•	Uncover patterns by comparing monthly income, employee satisfaction across various features (e.g., Job Role, Age Group, Department).
+•	Highlight potential issues in work-life balance, job satisfaction, or compensation.
+•	Generate visuals and an executive dashboard for HR decision-makers.
+
+Key Questions for HR Analysis
+1. Workforce Demographics
+What is the gender distribution of employees across different departments?
+How does the age group distribution vary by department and job role?
+Which marital status group has the highest average monthly income?
+
+2. Compensation Analysis
+Is there a significant difference in average hourly rate between genders?
+How does monthly income correlate with job level and field of education?
+Do employees who travel frequently earn more than those who travel rarely or not at all?
+
+3. Education and Career Progression
+Which education field contributes the most to high job levels or income?
+Is there a relationship between the education field and employee satisfaction?
+
+4. Engagement and Satisfaction
+Which departments have the highest job satisfaction and environment satisfaction scores?
+How does employee involvement vary between departments?
+Are younger employees (e.g., 26-35) more satisfied with their jobs compared to older age groups?
+5. Departmental Insights
+Which departments employ the majority of single or divorced employees?
+How does the employee count in each department relate to their respective satisfaction and involvement levels?
+
+6. Business Travel Insights
+What percentage of the total monthly income comes from employees who travel rarely, frequently, or never?
+Does frequent business travel influence job satisfaction negatively or positively?
+
+7. Strategic HR Questions
+Which combination of department, age group, and marital status contributes to the highest employee involvement?
+Are there departments or demographics with consistently lower satisfaction scores that require HR intervention?
+
+
+In-Analysis Board
+1. Workforce Overview:
+Total Employees: 1,480
+Hourly Rate: Ranges from 30 to 100
+Total Monthly Income: 962,379
+Balanced gender distribution, mostly younger employees (18–35).
+
+2. Demographics Insights:
+Gender Distribution:
+Female: 60.07%
+Male: 39.93%
+Age Group Distribution:
+Dominant: 26-35 years (611 employees)
+Followed by 36-45 years (471 employees)
+Marital Status:
+Married employees dominate (1,445)
+
+3. Education Field:
+Major Concentrations:
+Life Sciences (470 employees)
+Medical (161)
+Marketing (132)
+
+4. Business Travel vs. Income:
+High-income employees travel rarely (6.9M), suggesting travel isn’t a primary income differentiator.
+
+5. Job Satisfaction & Engagement by Department:
+Research & Development and Sales show relatively higher engagement and satisfaction scores compared to Human Resources.
+
+6. Work-Life Balance & Overtime Impact
+Employees with poor work-life balance and overtime are more likely to leave.
+
+
+
+Final Observations 
+1.	Gender Imbalance:
+Females represent a larger portion of the workforce (60%).
+2.	Age Distribution:
+The younger workforce (26-45) forms the majority.
+3.	Marital Status Influence:
+The majority are married, potentially influencing benefits and HR policies.
+4.	Department Engagement:
+Human Resources lags in satisfaction and engagement metrics.
+5.	Travel Frequency:
+Employees traveling rarely have the largest cumulative income, implying travel isn’t strongly correlated with higher pay.
+6.	Educational Background:
+A significant skew toward Life Sciences and Medical fields.
+7.	Employee Satisfaction: 
+Employees with poor work-life balance and overtime responsibilities are highly dissatisfied.
+8.	Training & Career Progression
+Lack of promotion opportunities and fewer training sessions correlate with resignation.
+
+
+
+Final Recommendations 
+1.	Diversity Programs:
+Launch initiatives to balance gender representation, particularly in senior roles.
+2.	Employee Engagement:
+Prioritize interventions to boost the Human Resources department’s satisfaction and involvement.
+3.	Career Path Planning:
+Offer tailored development programs for the 26-35 and 36-45 age groups, which dominate the workforce.
+4.	Education-Aligned Opportunities:
+Align job roles, career development, and benefits with the predominantly Life Sciences and Medical backgrounds of employees.
+5.	Review Travel Policies:
+Investigate why frequent travellers have lower cumulative incomes; consider incentives or re-evaluation of roles that require frequent travel.
+6.	Improve Work-Life Balance Initiatives
+Introduce hybrid/remote options and flexible hours.
+Limit overtime through better resource planning.
+7.	Revamp Employee Development Programs
+Provide continuous training and internal promotion opportunities.
+Identify high performers and create succession pipelines.
+8.	Compensation and Incentive Review
+Benchmark industry salary standards and review low-income brackets.
+Offer better stock option plans and performance incentives to retain top talent.
+
